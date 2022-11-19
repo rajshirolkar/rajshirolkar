@@ -53,7 +53,7 @@
 - [Image Tracking with ARFoundation and Unity](https://rajshirolkar.medium.com/image-tracking-with-arfoundation-and-unity-getting-started-d17fed1a1309)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+<!-- ▶ [... view more](https://apoorvtyagi.tech/) -->
 
 ---
 
