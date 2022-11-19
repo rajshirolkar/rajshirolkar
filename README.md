@@ -1,9 +1,8 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />! 
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Raj! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=700&center=true&width=400&height=100&lines=Full+Stack+Developer;Product+Engineer)](https://git.io/typing-svg)
 
-**`Raj Shirolkar (AR/VR/Python/System Design)`** <a href="https://twitter.com/RajShirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/raj-shirolkar-a3bbb5167" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+## **`Raj Shirolkar (AR/VR/Python/System Design)`** <a href="https://twitter.com/RajShirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp; <a href="https://www.linkedin.com/in/raj-shirolkar-a3bbb5167" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 I'm a Full Stack Developer with 3 years of professional experience building AR/VR appc and designing robust and scalable RESTful APIs. I'm currently pursuing a Master's Degree at the University of Washington in Seattle. I'm learning how to build and develop scalable AR/VR software products with Unity/C# along with 3d modelling and prototyping in high fidelity. I like solving expensive real life problems with inexpensive and ingenious software solutions. 
 
@@ -15,9 +14,9 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 - 📝 I write technical articles for 
 <a href="https://dev.to/rajshirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="rajshirolkar" height="30" width="30" /></a>&nbsp;
 
-- 💻 I use daily **.py**,  **.sql**, **.ts**, **.js**, **.java**
+- 💻 I use daily **.py**,  **.sql**, **.ts**, **.js**, **.cs**
 - 📖 I am currently reading **Clean Code** by Robert Martin
-- 💬 Talk to me about Chess, Python, Software, Business, Cubing and World War II strategies & stats!
+- 💬 Talk to me about `AR/VR, Software, Python, Business, Chess, Cubing and World War II strategies & stats!`
 - 👯 We can connect to play some games of Chess at [Lichess](https://lichess.org/@/rajshirolkar) ♞♟
 - ⚡ Fun fact: Thomas Edison was the first person who uses the word “bug”. He uses the word “bug” to describe a technical issue. He used it in a letter that dates back to 1878. However, it wasn’t until 70 years later that the term became so popular.
 
