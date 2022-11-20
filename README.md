@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=700&center=true&width=400&height=100&lines=Full+Stack+Developer;Product+Engineer)](https://git.io/typing-svg)
 
-## **Raj Shirolkar (AR/VR/Python/System Design)** <a href="https://twitter.com/RajShirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp; <a href="https://www.linkedin.com/in/raj-shirolkar-a3bbb5167" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+## **Raj Shirolkar (AR / VR / Python / System Design)** <a href="https://twitter.com/RajShirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp; <a href="https://www.linkedin.com/in/raj-shirolkar-a3bbb5167" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 I'm a Full Stack Developer with 3 years of professional experience building AR/VR appc and designing robust and scalable RESTful APIs. I'm currently pursuing a Master's Degree at the University of Washington in Seattle. I'm learning how to build and develop scalable AR/VR software products with Unity/C# along with 3d modelling and prototyping in high fidelity. I like solving expensive real life problems with inexpensive and ingenious software solutions. 
 
@@ -16,7 +16,7 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 
 - 💻 I use daily **.py**,  **.sql**, **.ts**, **.js**, **.cs**
 - 📖 I am currently reading **Clean Code** by Robert Martin
-- 💬 Talk to me about AR/VR, Software, Python, Business, Chess, Cubing and World War II strategies & stats!
+- 💬 Talk to me about AR / VR, Software, Python, Business, Chess, Cubing and World War II strategies & stats!
 - 👯 We can connect to play some games of Chess at [Lichess](https://lichess.org/@/rajshirolkar) ♞♟
 - ⚡ Fun fact: Thomas Edison was the first person who uses the word “bug”. He uses the word “bug” to describe a technical issue. He used it in a letter that dates back to 1878. However, it wasn’t until 70 years later that the term became so popular.
 
@@ -58,11 +58,8 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshirolkar&theme=chartreuse-dark&layout=compact&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshirolkar&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.23 % as on ⏰ 18-Nov-2022
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.50 % as on ⏰ 19-Nov-2022
 
 ---
 
@@ -79,7 +76,6 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming. -->
 
-
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
@@ -93,4 +89,5 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
 
