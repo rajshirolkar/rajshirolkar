@@ -4,7 +4,7 @@
 
 ## **Raj Shirolkar (AR / VR / Python / System Design)** <a href="https://twitter.com/RajShirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp; <a href="https://www.linkedin.com/in/raj-shirolkar-a3bbb5167" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
-I'm a Full Stack Developer with 3 years of professional experience building AR/VR apps and designing robust & scalable RESTful APIs. I'm currently pursuing a Master's Degree at the University of Washington in Seattle. I'm learning how to build and develop scalable AR/VR software products with Unity/C# along with 3d modelling and prototyping in high fidelity. I like solving expensive real life problems with inexpensive and ingenious software solutions. 
+I'm a Full Stack Developer with 3 years of professional experience building AR/VR appc and designing robust and scalable RESTful APIs. I'm currently pursuing a Master's Degree at the University of Washington in Seattle. I'm learning how to build and develop scalable AR/VR software products with Unity/C# along with 3d modelling and prototyping in high fidelity. I like solving expensive real life problems with inexpensive and ingenious software solutions. 
 
              
 
@@ -59,7 +59,7 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshirolkar&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.50 % as on ⏰ 19-Nov-2022
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.77 % as on ⏰ 20-Nov-2022
 
 ---
 
