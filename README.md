@@ -10,7 +10,7 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer pursuing a Master's in Technology Innovation at the - 
-      <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="200" height = "18">
+      <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214441/Signature_Left_Purple_Hex.png" width="250" height = "18">
 - 📝 I write technical articles for 
 <a href="https://dev.to/rajshirolkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="rajshirolkar" height="30" width="30" /></a>&nbsp;
 
@@ -59,7 +59,7 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshirolkar&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.87 % as on ⏰ 20-Nov-2022
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 89.05 % as on ⏰ 21-Nov-2022
 
 ---
 
