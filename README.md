@@ -59,7 +59,7 @@ I'm a Full Stack Developer with 3 years of professional experience building AR/V
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshirolkar&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.57 % as on ⏰ 5-Aug-2024
+⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.84 % as on ⏰ 6-Aug-2024
 
 ---
 
